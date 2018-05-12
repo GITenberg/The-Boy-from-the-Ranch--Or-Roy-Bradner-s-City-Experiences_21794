@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21794#The-Boy-from-the-Ranch--Or-Roy-Bradner-s-City-Experiences
 gutenberg_issued: '2007-06-10'
 gutenberg_type: Text
 identifiers:
